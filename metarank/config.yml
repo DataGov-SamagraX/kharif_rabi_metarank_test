@@ -54,7 +54,7 @@ features:
       - fertilizer_3
 
   - name: crops
-    type: number
+    type: string
     scope: user
     source: user.crops
     values:
